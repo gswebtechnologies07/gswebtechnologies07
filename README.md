@@ -2,13 +2,9 @@
 
 ### Full-Stack Developer | Founder @ GS Web Technologies
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gswebtechnologies07&label=Profile views&color=0e75b6&style=flat" alt="gswebtechnologies07" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gswebtechnologies07" alt="gswebtechnologies07" /></a> </p>
-
 - 👯 I'm looking to collaborate on **PHP, Laravel, CodeIgniter, WordPress, Shopify, and Custom Web Apps**
 
-- 💬 Ask me about **API Integrations & Custom Dashboards**
+- 💬 Ask me about **API Integrations, CRM & ERP Systems (Custom business automation solutions), & Custom Dashboards**
 
 - 📫 How to reach me **soyaljpr@gmail.com**
 
